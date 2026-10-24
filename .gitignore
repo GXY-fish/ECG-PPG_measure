@@ -1,0 +1,10 @@
+# ESP-IDF 编译产物
+build/
+build_old_*/
+*.bin
+*.elf
+*.map
+
+# Python
+__pycache__/
+*.pyc
